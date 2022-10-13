@@ -2,7 +2,7 @@
 
 ## Resultado final
 
-![]()
+![GIF con el resultado](P1 - Edited.gif)
 
 ## Descripción del trabajo
 
